@@ -15,3 +15,4 @@ Final commit
 master2_line
 >>>>>>> master_2
 >>>>>>> test_branch
+Now you are master.
