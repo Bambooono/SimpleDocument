@@ -6,4 +6,12 @@ test-2-3
 6th line
 7th line
 8th line
+<<<<<<< HEAD
 change to master
+=======
+<<<<<<< HEAD
+Final commit
+=======
+master2_line
+>>>>>>> master_2
+>>>>>>> test_branch
